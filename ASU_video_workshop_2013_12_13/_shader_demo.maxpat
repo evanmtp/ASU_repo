@@ -7,9 +7,9 @@
 			"revision" : 8
 		}
 ,
-		"rect" : [ 94.0, 47.0, 1552.0, 897.0 ],
+		"rect" : [ 0.0, 44.0, 714.0, 768.0 ],
 		"bglocked" : 0,
-		"openinpresentation" : 0,
+		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
 		"default_fontface" : 0,
 		"default_fontname" : "Arial",
@@ -1674,232 +1674,232 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "jmod.gl.tp.slide%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.tp.slide%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.tp.slide%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.tp.slide%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.tp.slide%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jalg.gl.tp.slide%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.tp.slide%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.tp.slide%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.tp.slide%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.tp.slide%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jmod.gl.cf.sharpen%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.sharpen%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.sharpen%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.sharpen%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.sharpen%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jalg.gl.cf.sharpen%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.sharpen%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.sharpen%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.sharpen%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.sharpen%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jmod.gl.cf.sobel%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.sobel%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.sobel%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.sobel%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.sobel%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jalg.gl.cf.sobel%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.sobel%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.sobel%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.sobel%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.sobel%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jmod.gl.composite%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.composite%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.composite%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.composite%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.composite%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jalg.gl.composite%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.composite%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.composite%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.composite%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.composite%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jmod.input%.maxpat",
 				"bootpath" : "/Applications/Max6/Cycling '74/Jamoma/modules/video/input%",
-				"patcherrelativepath" : "../../../../../Applications/Max6/Cycling '74/Jamoma/modules/video/input%",
+				"patcherrelativepath" : "../../../../../../Applications/Max6/Cycling '74/Jamoma/modules/video/input%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jalg.input%.maxpat",
 				"bootpath" : "/Applications/Max6/Cycling '74/Jamoma/modules/video/input%",
-				"patcherrelativepath" : "../../../../../Applications/Max6/Cycling '74/Jamoma/modules/video/input%",
+				"patcherrelativepath" : "../../../../../../Applications/Max6/Cycling '74/Jamoma/modules/video/input%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jcom.thru.maxpat",
 				"bootpath" : "/Applications/Max6/Cycling '74/Jamoma/library/components/thru",
-				"patcherrelativepath" : "../../../../../Applications/Max6/Cycling '74/Jamoma/library/components/thru",
+				"patcherrelativepath" : "../../../../../../Applications/Max6/Cycling '74/Jamoma/library/components/thru",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jalg.input%.ui.maxpat",
 				"bootpath" : "/Applications/Max6/Cycling '74/Jamoma/modules/video/input%",
-				"patcherrelativepath" : "../../../../../Applications/Max6/Cycling '74/Jamoma/modules/video/input%",
+				"patcherrelativepath" : "../../../../../../Applications/Max6/Cycling '74/Jamoma/modules/video/input%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jmod.gl.cf.blur%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.blur%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.blur%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.blur%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.blur%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jalg.gl.cf.blur%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.blur%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.blur%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.blur%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.blur%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jmod.gl.cf.convolve%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.convolve%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.convolve%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.convolve%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.convolve%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jalg.gl.cf.convolve%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.convolve%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.convolve%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.convolve%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.convolve%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jmod.gl.cf.dilate%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.dilate%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.dilate%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.dilate%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.dilate%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jalg.gl.cf.dilate%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.dilate%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.dilate%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.dilate%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.dilate%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jmod.gl.cf.edgedetect%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.edgedetect%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.edgedetect%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.edgedetect%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.edgedetect%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jalg.gl.cf.edgedetect%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.edgedetect%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.edgedetect%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.edgedetect%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.edgedetect%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jmod.gl.cf.emboss%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.emboss%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.emboss%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.emboss%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.emboss%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jalg.gl.cf.emboss%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.emboss%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.emboss%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.emboss%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.emboss%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jmod.gl.cf.erode%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.erode%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.erode%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.erode%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.erode%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jalg.gl.cf.erode%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.erode%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.erode%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.erode%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.erode%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jmod.gl.cf.gaussian.2p%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.gaussian.2p%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.gaussian.2p%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.gaussian.2p%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.gaussian.2p%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jalg.gl.cf.gaussian.2p%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.gaussian.2p%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.gaussian.2p%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.gaussian.2p%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.gaussian.2p%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jcom.list2parameter.maxpat",
 				"bootpath" : "/Applications/Max6/Cycling '74/Jamoma/library/components/list2parameter",
-				"patcherrelativepath" : "../../../../../Applications/Max6/Cycling '74/Jamoma/library/components/list2parameter",
+				"patcherrelativepath" : "../../../../../../Applications/Max6/Cycling '74/Jamoma/library/components/list2parameter",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jmod.gl.cf.laplace%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.laplace%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.laplace%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.laplace%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.laplace%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jalg.gl.cf.laplace%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.laplace%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.laplace%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.laplace%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.laplace%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jmod.gl.cf.median.2p%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.median.2p%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.median.2p%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.median.2p%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.median.2p%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jalg.gl.cf.median.2p%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.median.2p%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.median.2p%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.median.2p%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.median.2p%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jmod.gl.cf.radialblur%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.radialblur%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.radialblur%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.radialblur%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.radialblur%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jalg.gl.cf.radialblur%.maxpat",
-				"bootpath" : "/Users/synthesis/Desktop/Git/ilya_active/jamoma_shaders/jmod.gl.cf.radialblur%",
-				"patcherrelativepath" : "../ilya_active/jamoma_shaders/jmod.gl.cf.radialblur%",
+				"bootpath" : "/Users/synthesis/Desktop/Git/ASU_repo/ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.radialblur%",
+				"patcherrelativepath" : "../ASU_video_workshop_2013_12_13/jamoma_shaders/jmod.gl.cf.radialblur%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
