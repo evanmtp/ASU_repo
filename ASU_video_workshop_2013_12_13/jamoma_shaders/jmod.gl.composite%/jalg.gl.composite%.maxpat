@@ -3,9 +3,8 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 6,
-			"minor" : 1,
-			"revision" : 3,
-			"architecture" : "x86"
+			"minor" : 0,
+			"revision" : 8
 		}
 ,
 		"rect" : [ 199.0, 121.0, 821.0, 315.0 ],
@@ -62,7 +61,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 255.0, 225.0, 180.0, 17.0 ],
-					"text" : "param amount 1. 0.48 0.48 1."
+					"text" : "param /video/bypass 1"
 				}
 
 			}
@@ -290,10 +289,11 @@
 			}
 , 			{
 				"patchline" : 				{
+					"color" : [ 0.156863, 0.8, 0.54902, 1.0 ],
 					"destination" : [ "obj-8", 1 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 564.5, 282.0, 171.5, 282.0 ],
+					"midpoints" : [ 564.5, 267.0, 171.5, 267.0 ],
 					"source" : [ "obj-10", 0 ]
 				}
 
@@ -414,11 +414,10 @@
 			}
 , 			{
 				"patchline" : 				{
-					"color" : [ 0.156863, 0.8, 0.54902, 1.0 ],
 					"destination" : [ "obj-8", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 669.5, 267.0, 24.5, 267.0 ],
+					"midpoints" : [ 669.5, 282.0, 24.5, 282.0 ],
 					"source" : [ "obj-4", 0 ]
 				}
 

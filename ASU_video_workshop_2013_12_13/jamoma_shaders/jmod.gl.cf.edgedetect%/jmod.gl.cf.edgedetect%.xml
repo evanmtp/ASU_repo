@@ -8,7 +8,7 @@
     <item name='destination' type='string' priority='0' mixweight='1'>test</item>
     <item name='height' type='decimal' priority='0' mixweight='1'>2.000000</item>
     <item name='threshold' type='decimal' priority='0' mixweight='1'>0.200000</item>
-    <item name='video/bypass' type='boolean' priority='0' mixweight='1'>0</item>
+    <item name='video/bypass' type='boolean' priority='0' mixweight='1'>1</item>
     <item name='video/freeze' type='boolean' priority='0' mixweight='1'>0</item>
     <item name='video/mute' type='boolean' priority='0' mixweight='1'>0</item>
     <item name='video/preview' type='boolean' priority='0' mixweight='1'>0</item>

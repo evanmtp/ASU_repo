@@ -67,7 +67,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 285.0, 285.0, 25.0, 25.0 ]
+					"patching_rect" : [ 275.0, 285.0, 25.0, 25.0 ]
 				}
 
 			}
@@ -371,7 +371,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 330.0, 285.0, 135.0, 19.0 ],
+					"patching_rect" : [ 305.0, 285.0, 135.0, 19.0 ],
 					"text" : "VIDEO/TEXTURE INPUT"
 				}
 
